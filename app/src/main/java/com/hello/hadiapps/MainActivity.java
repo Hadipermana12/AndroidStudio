@@ -33,4 +33,10 @@ public class MainActivity extends AppCompatActivity {
         if (mShowCount != null)
             mShowCount.setText(Integer.toString(next));
     }
+    public void showMap(Url geolocation) {
+        intent intent = new intent(intent.ACTION_VIEW);
+        intent.setData(golocation);
+        if (intent.resolveActivity(getPackageManager()) != null) {
+
+    }
 }
