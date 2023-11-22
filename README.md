@@ -1,6 +1,6 @@
 # Penjelasan aplikasi menghitung deret fibonacci
 
-![](picture/00.jpgpicture/01.jpgpicture/02.jpg)
+![](picture/00.png)
 
 
 
